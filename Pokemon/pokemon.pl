@@ -1,159 +1,159 @@
-pokemon(victini).
-pokemon(snivy).
-pokemon(servine).
-pokemon(serperior).
-pokemon(tepig).
-pokemon(pignite).
-pokemon(emboar).
-pokemon(oshawott).
-pokemon(dewott).
-pokemon(samurott).
-pokemon(patrat).
-pokemon(watchog).
-pokemon(lillipup).
-pokemon(herdier).
-pokemon(stoutland).
-pokemon(purrloin).
-pokemon(liepard).
-pokemon(pansage).
-pokemon(simisage).
-pokemon(pansear).
-pokemon(simisear).
-pokemon(panpour).
-pokemon(simipour).
-pokemon(munna).
-pokemon(musharna).
-pokemon(pidove).
-pokemon(tranquill).
-pokemon(unfezant).
-pokemon(blitzle).
-pokemon(zebstrika).
-pokemon(roggenrola).
-pokemon(boldore).
-pokemon(gigalith).
-pokemon(woobat).
-pokemon(swoobat).
-pokemon(drilbur).
-pokemon(excadrill).
-pokemon(audino).
-pokemon(timburr).
-pokemon(gurdurr).
-pokemon(conkeldurr).
-pokemon(tympole).
-pokemon(palpitoad).
-pokemon(seismitoad).
-pokemon(throh).
-pokemon(sawk).
-pokemon(sewaddle).
-pokemon(swadloon).
-pokemon(leavanny).
-pokemon(venipede).
-pokemon(whirlipede).
-pokemon(scolipede).
-pokemon(cottonee).
-pokemon(whimsicott).
-pokemon(petilil).
-pokemon(lilligant).
-pokemon(basculin).
-pokemon(sandile).
-pokemon(krokorok).
-pokemon(krookodile).
-pokemon(darumaka).
-pokemon(darmanitan).
-pokemon(maractus).
-pokemon(dwebble).
-pokemon(crustle).
-pokemon(scraggy).
-pokemon(scrafty).
-pokemon(sigilyph).
-pokemon(yamask).
-pokemon(cofagrigus).
-pokemon(tirtouga).
-pokemon(carracosta).
-pokemon(archen).
-pokemon(archeops).
-pokemon(trubbish).
-pokemon(garbodor).
-pokemon(zorua).
-pokemon(zoroark).
-pokemon(minccino).
-pokemon(cinccino).
-pokemon(gothita).
-pokemon(gothorita).
-pokemon(gothitelle).
-pokemon(solosis).
-pokemon(duosion).
-pokemon(reuniclus).
-pokemon(ducklett).
-pokemon(swanna).
-pokemon(vanillite).
-pokemon(vanillish).
-pokemon(vanilluxe).
-pokemon(deerling).
-pokemon(sawsbuck).
-pokemon(emolga).
-pokemon(karrablast).
-pokemon(escavalier).
-pokemon(foongus).
-pokemon(amoonguss).
-pokemon(frillish).
-pokemon(jellicent).
-pokemon(alomomola).
-pokemon(joltik).
-pokemon(galvantula).
-pokemon(ferroseed).
-pokemon(ferrothorn).
-pokemon(klink).
-pokemon(klang).
-pokemon(klinklang).
-pokemon(tynamo).
-pokemon(eelektrik).
-pokemon(eelektross).
-pokemon(elgyem).
-pokemon(beheeyem).
-pokemon(litwick).
-pokemon(lampent).
-pokemon(chandelure).
-pokemon(axew).
-pokemon(fraxure).
-pokemon(haxorus).
-pokemon(cubchoo).
-pokemon(beartic).
-pokemon(cryogonal).
-pokemon(shelmet).
-pokemon(accelgor).
-pokemon(stunfisk).
-pokemon(mienfoo).
-pokemon(mienshao).
-pokemon(druddigon).
-pokemon(golett).
-pokemon(golurk).
-pokemon(pawniard).
-pokemon(bisharp).
-pokemon(bouffalant).
-pokemon(rufflet).
-pokemon(braviary).
-pokemon(vullaby).
-pokemon(mandibuzz).
-pokemon(heatmor).
-pokemon(durant).
-pokemon(deino).
-pokemon(zweilous).
-pokemon(hydreigon).
-pokemon(larvesta).
-pokemon(volcarona).
-pokemon(cobalion).
-pokemon(terrakion).
-pokemon(virizion).
-pokemon(tornadus).
-pokemon(thundurus).
-pokemon(reshiram).
-pokemon(zekrom).
-pokemon(landorus).
-pokemon(kyurem).
-pokemon(keldeo).
-pokemon(meloetta).
-pokemon(genesect).
+pokemon(victini, 494).
+pokemon(snivy, 495).
+pokemon(servine, 496).
+pokemon(serperior, 497).
+pokemon(tepig, 498).
+pokemon(pignite, 499).
+pokemon(emboar, 500).
+pokemon(oshawott, 501).
+pokemon(dewott, 502).
+pokemon(samurott, 503).
+pokemon(patrat, 504).
+pokemon(watchog, 505).
+pokemon(lillipup, 506).
+pokemon(herdier, 507).
+pokemon(stoutland, 508).
+pokemon(purrloin, 509).
+pokemon(liepard, 510).
+pokemon(pansage, 511).
+pokemon(simisage, 512).
+pokemon(pansear, 513).
+pokemon(simisear, 514).
+pokemon(panpour, 515).
+pokemon(simipour, 516).
+pokemon(munna, 517).
+pokemon(musharna, 518).
+pokemon(pidove, 519).
+pokemon(tranquill, 520).
+pokemon(unfezant, 521).
+pokemon(blitzle, 522).
+pokemon(zebstrika, 523).
+pokemon(roggenrola, 524).
+pokemon(boldore, 525).
+pokemon(gigalith, 526).
+pokemon(woobat, 527).
+pokemon(swoobat, 528).
+pokemon(drilbur, 529).
+pokemon(excadrill, 530).
+pokemon(audino, 531).
+pokemon(timburr, 532).
+pokemon(gurdurr, 533).
+pokemon(conkeldurr, 534).
+pokemon(tympole, 535).
+pokemon(palpitoad, 536).
+pokemon(seismitoad, 537).
+pokemon(throh, 538).
+pokemon(sawk, 539).
+pokemon(sewaddle, 540).
+pokemon(swadloon, 541).
+pokemon(leavanny, 542).
+pokemon(venipede, 543).
+pokemon(whirlipede, 544).
+pokemon(scolipede, 545).
+pokemon(cottonee, 546).
+pokemon(whimsicott, 547).
+pokemon(petilil, 548).
+pokemon(lilligant, 549).
+pokemon(basculin, 550).
+pokemon(sandile, 551).
+pokemon(krokorok, 552).
+pokemon(krookodile, 553).
+pokemon(darumaka, 554).
+pokemon(darmanitan, 555).
+pokemon(maractus, 556).
+pokemon(dwebble, 557).
+pokemon(crustle, 558).
+pokemon(scraggy, 559).
+pokemon(scrafty, 560).
+pokemon(sigilyph, 561).
+pokemon(yamask, 562).
+pokemon(cofagrigus, 563).
+pokemon(tirtouga, 564).
+pokemon(carracosta, 565).
+pokemon(archen, 566).
+pokemon(archeops, 567).
+pokemon(trubbish, 568).
+pokemon(garbodor, 569).
+pokemon(zorua, 570).
+pokemon(zoroark, 571).
+pokemon(minccino, 572).
+pokemon(cinccino, 573).
+pokemon(gothita, 574).
+pokemon(gothorita, 575).
+pokemon(gothitelle, 576).
+pokemon(solosis, 577).
+pokemon(duosion, 578).
+pokemon(reuniclus, 579).
+pokemon(ducklett, 580).
+pokemon(swanna, 581).
+pokemon(vanillite, 582).
+pokemon(vanillish, 583).
+pokemon(vanilluxe, 584).
+pokemon(deerling, 585).
+pokemon(sawsbuck, 586).
+pokemon(emolga, 587).
+pokemon(karrablast, 588).
+pokemon(escavalier, 589).
+pokemon(foongus, 590).
+pokemon(amoonguss, 591).
+pokemon(frillish, 592).
+pokemon(jellicent, 593).
+pokemon(alomomola, 594).
+pokemon(joltik, 595).
+pokemon(galvantula, 596).
+pokemon(ferroseed, 597).
+pokemon(ferrothorn, 598).
+pokemon(klink, 599).
+pokemon(klang, 600).
+pokemon(klinklang, 601).
+pokemon(tynamo, 602).
+pokemon(eelektrik, 603).
+pokemon(eelektross, 604).
+pokemon(elgyem, 605).
+pokemon(beheeyem, 606).
+pokemon(litwick, 607).
+pokemon(lampent, 608).
+pokemon(chandelure, 609).
+pokemon(axew, 610).
+pokemon(fraxure, 611).
+pokemon(haxorus, 612).
+pokemon(cubchoo, 613).
+pokemon(beartic, 614).
+pokemon(cryogonal, 615).
+pokemon(shelmet, 616).
+pokemon(accelgor, 617).
+pokemon(stunfisk, 618).
+pokemon(mienfoo, 619).
+pokemon(mienshao, 620).
+pokemon(druddigon, 621).
+pokemon(golett, 622).
+pokemon(golurk, 623).
+pokemon(pawniard, 624).
+pokemon(bisharp, 625).
+pokemon(bouffalant, 626).
+pokemon(rufflet, 627).
+pokemon(braviary, 628).
+pokemon(vullaby, 629).
+pokemon(mandibuzz, 630).
+pokemon(heatmor, 631).
+pokemon(durant, 632).
+pokemon(deino, 633).
+pokemon(zweilous, 634).
+pokemon(hydreigon, 635).
+pokemon(larvesta, 636).
+pokemon(volcarona, 637).
+pokemon(cobalion, 638).
+pokemon(terrakion, 639).
+pokemon(virizion, 640).
+pokemon(tornadus, 641).
+pokemon(thundurus, 642).
+pokemon(reshiram, 643).
+pokemon(zekrom, 644).
+pokemon(landorus, 645).
+pokemon(kyurem, 646).
+pokemon(keldeo, 647).
+pokemon(meloetta, 648).
+pokemon(genesect, 649).
 
 tipo(victini, fogo).
 tipo(snivy, grama).
@@ -388,3 +388,55 @@ evolui(vullaby, mandibuzz).
 evolui(deino, zweilous).
 evolui(zweilous, hydreigon).
 evolui(larvesta, volcarona).
+
+vantagem(metal, fada).
+vantagem(metal, gelo).
+vantagem(metal, pedra).
+vantagem(agua, fogo).
+vantagem(agua, pedra).
+vantagem(agua, terra).
+vantagem(dragao, dragao).
+vantagem(eletrico, voador).
+vantagem(eletrico, agua).
+vantagem(fada, sombrio).
+vantagem(fada, dragao).
+vantagem(fada, lutador).
+vantagem(fatasma, fantasma).
+vantagem(fantasma,psiquico).
+vantagem(fogo, metal).
+vantagem(fogo, gelo).
+vantagem(fogo, inseto).
+vantagem(fogo, grama).
+vantagem(gelo, dragao).
+vantagem(gelo, grama).
+vantagem(gelo, terra).
+vantagem(gelo, voador).
+vantagem(inseto, grama).
+vantagem(inseto, psiquico).
+vantagem(inseto, sombrio).
+vantagem(lutador, metal).
+vantagem(lutador, gelo).
+vantagem(lutador, normal).
+vantagem(lutador, pedra).
+vantagem(lutador, sombrio).
+vantagem(pedra, fogo).
+vantagem(pedra, gelo).
+vantagem(pedra, inseto).
+vantagem(pedra, voador).
+vantagem(grama, agua).
+vantagem(grama, terra).
+vantagem(grama, pedra).
+vantagem(psiquico, lutador).
+vantagem(psiquico, venenoso).
+vantagem(sombrio, fantasma).
+vantagem(sombrio, psiquico).
+vantagem(terra, metal).
+vantagem(terra, eletrico).
+vantagem(terra, fogo).
+vantagem(terra, pedra).
+vantagem(terra, venenoso).
+vantagem(venenoso, fada).
+vantagem(venenoso, grama).
+vantagem(voador, inseto).
+vantagem(voador, lutador).
+vantagem(voador, grama).
