@@ -156,9 +156,9 @@ pokemon(meloetta, 648).
 pokemon(genesect, 649).
 
 tipo(victini, fogo).
-tipo(snivy, grama).
-tipo(servine, grama).
-tipo(serperior, grama).
+tipo(snivy, planta).
+tipo(servine, planta).
+tipo(serperior, planta).
 tipo(tepig, fogo).
 tipo(pignite, fogo).
 tipo(emboar, fogo).
@@ -172,8 +172,8 @@ tipo(herdier, normal).
 tipo(stoutland, normal).
 tipo(purrloin, sombrio).
 tipo(liepard, sombrio).
-tipo(pansage, grama).
-tipo(simisage, grama).
+tipo(pansage, planta).
+tipo(simisage, planta).
 tipo(pansear, fogo).
 tipo(simisear, fogo).
 tipo(panpour, agua).
@@ -207,17 +207,18 @@ tipo(leavanny, inseto).
 tipo(venipede, inseto).
 tipo(whirlipede, inseto).
 tipo(scolipede, inseto).
-tipo(cottonee, grama).
-tipo(whimsicott, grama).
-tipo(petilil, grama).
-tipo(lilligant, grama).
+tipo(cottonee, planta).
+tipo(whimsicott, planta).
+tipo(petilil, planta).
+tipo(lilligant, planta).
 tipo(basculin, agua).
 tipo(sandile, terra).
 tipo(krokorok, terra).
 tipo(krookodile, terra).
 tipo(darumaka, fogo).
+
 tipo(darmanitan, fogo).
-tipo(maractus, grama).
+tipo(maractus, planta).
 tipo(dwebble, inseto).
 tipo(crustle, inseto).
 tipo(scraggy, sombrio).
@@ -251,15 +252,15 @@ tipo(sawsbuck, normal).
 tipo(emolga, eletrico).
 tipo(karrablast, inseto).
 tipo(escavalier, inseto).
-tipo(foongus, grama).
-tipo(amoonguss, grama).
+tipo(foongus, planta).
+tipo(amoonguss, planta).
 tipo(frillish, agua).
 tipo(jellicent, agua).
 tipo(alomomola, agua).
 tipo(joltik, inseto).
 tipo(galvantula, inseto).
-tipo(ferroseed, grama).
-tipo(ferrothorn, grama).
+tipo(ferroseed, planta).
+tipo(ferrothorn, planta).
 tipo(klink, metal).
 tipo(klang, metal).
 tipo(klinklang, metal).
@@ -301,7 +302,7 @@ tipo(larvesta, inseto).
 tipo(volcarona, inseto).
 tipo(cobalion, metal).
 tipo(terrakion, pedra).
-tipo(virizion, grama).
+tipo(virizion, planta).
 tipo(tornadus, voador).
 tipo(thundurus, eletrico).
 tipo(reshiram, dragao).
@@ -311,8 +312,6 @@ tipo(kyurem, dragao).
 tipo(keldeo, agua).
 tipo(meloetta, normal).
 tipo(genesect, inseto).
-
-TiposUnicos = [agua, dragao, eletrico, fantasma, fogo, gelo, grama, inseto, lutador, metal, normal, pedra, psiquico, sombrio, terra, venenoso, voador].
 
 evolui(snivy, servine).
 evolui(servine, surperior).
@@ -406,12 +405,12 @@ vantagem(fantasma,psiquico).
 vantagem(fogo, metal).
 vantagem(fogo, gelo).
 vantagem(fogo, inseto).
-vantagem(fogo, grama).
+vantagem(fogo, planta).
 vantagem(gelo, dragao).
-vantagem(gelo, grama).
+vantagem(gelo, planta).
 vantagem(gelo, terra).
 vantagem(gelo, voador).
-vantagem(inseto, grama).
+vantagem(inseto, planta).
 vantagem(inseto, psiquico).
 vantagem(inseto, sombrio).
 vantagem(lutador, metal).
@@ -423,9 +422,9 @@ vantagem(pedra, fogo).
 vantagem(pedra, gelo).
 vantagem(pedra, inseto).
 vantagem(pedra, voador).
-vantagem(grama, agua).
-vantagem(grama, terra).
-vantagem(grama, pedra).
+vantagem(planta, agua).
+vantagem(planta, terra).
+vantagem(planta, pedra).
 vantagem(psiquico, lutador).
 vantagem(psiquico, venenoso).
 vantagem(sombrio, fantasma).
@@ -436,7 +435,62 @@ vantagem(terra, fogo).
 vantagem(terra, pedra).
 vantagem(terra, venenoso).
 vantagem(venenoso, fada).
-vantagem(venenoso, grama).
+vantagem(venenoso, planta).
 vantagem(voador, inseto).
 vantagem(voador, lutador).
-vantagem(voador, grama).
+vantagem(voador, planta).
+
+fraqueza(metal, fogo).
+fraqueza(metal, terra).
+fraqueza(metal, lutador).
+fraqueza(agua, eletrico).
+fraqueza(agua, planta).
+fraqueza(dragao, dragao).
+fraqueza(dragao, fada).
+fraqueza(dragao, gelo).
+fraqueza(eletrico, terra).
+fraqueza(fada, metal).
+fraqueza(fada, venenoso).
+fraqueza(fantasma, sombrio).
+fraqueza(fogo, agua).
+fraqueza(fogo, pedra).
+fraqueza(fogo, terra).
+fraqueza(gelo, metal).
+fraqueza(gelo, fogo).
+fraqueza(gelo, lutador).
+fraqueza(gelo, pedra).
+fraqueza(inseto, fogo).
+fraqueza(inseto, pedra).
+fraqueza(inseto, voador).
+fraqueza(lutador, fada).
+fraqueza(lutador, psiquico).
+fraqueza(normal, lutador).
+fraqueza(pedra, metal).
+fraqueza(pedra, agua).
+fraqueza(pedra, lutador).
+fraqueza(pedra, planta).
+fraqueza(pedra, terra).
+fraqueza(planta, gelo).
+fraqueza(planta, fogo).
+fraqueza(planta, inseto).
+fraqueza(planta, venenoso).
+fraqueza(planta, voador).
+fraqueza(psiquico, inseto).
+fraqueza(psiquico, fantasma).
+fraqueza(psiquico, sombrio).
+fraqueza(sombrio, fada).
+fraqueza(sombrio, inseto).
+fraqueza(sombrio, lutador).
+fraqueza(terra, agua).
+fraqueza(terra, gelo).
+fraqueza(terra, planta).
+fraqueza(venenoso, psiquico).
+fraqueza(venenoso, terra).
+fraqueza(voador, eletrico).
+fraqueza(voador, gelo).
+fraqueza(voador, pedra).
+
+lendario(X) :- pokemon(X, Y), (Y == 494; Y >= 638).
+ganha(X, Y) :- vantagem(G, P), tipo(X, G), tipo(Y, P).
+perde(X, Y) :- fraqueza(G, P), tipo(X, G), tipo(Y, P).
+ultimaevolução(X, Y) :- evolui(X, Z), evolui(Z, Y).
