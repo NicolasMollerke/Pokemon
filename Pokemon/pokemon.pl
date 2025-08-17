@@ -493,4 +493,4 @@ fraqueza(voador, pedra).
 lendario(X) :- pokemon(X, Y), (Y == 494; Y >= 638).
 ganha(X, Y) :- vantagem(G, P), tipo(X, G), tipo(Y, P).
 perde(X, Y) :- fraqueza(G, P), tipo(X, G), tipo(Y, P).
-ultimaevolução(X, Y) :- evolui(X, Z), evolui(Z, Y).
+terceiraevolução(X, Y) :- evolui(X, Z), evolui(Z, Y).
